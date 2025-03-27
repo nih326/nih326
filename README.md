@@ -11,8 +11,8 @@ Previously, I worked as an **Application Development Analyst at Accenture Soluti
 ## 🌟 About Me
 
 ### 🎓 Education
-- **Master of Computer Science** | NC State University *(Expected: May 2026 | GPA: 3.6/4)*
-- **Bachelor of Engineering in Computer Science** | Vidyavardhaka College of Engineering, India *(GPA: 9.2/10)*
+- **Master of Computer Science** | NC State University *(Expected: May 2026)*
+- **Bachelor of Engineering in Computer Science** | Vidyavardhaka College of Engineering, India
 
 ### 💻 Experience
 - **Accenture Solutions Pvt Ltd** *(Nov 2021 - Jun 2024)*
@@ -73,19 +73,6 @@ Previously, I worked as an **Application Development Analyst at Accenture Soluti
 ### **🌐 IoT & Fog Computing in Healthcare (Aug 2020 - Apr 2021)**
 - Implemented a **real-time healthcare monitoring system** using **Fog Computing and IoT**.
 - Published research on the system’s impact on timely **medical interventions**.
-
-### **📊 LogiScrape - Web Scraping Automation (Jun 2023)**
-- Automated **data scraping** with **Python and Selenium**, integrating **BigQuery** for structured analysis.
-
-### **🏷 Dynamic Label Generator (Jun 2023)**
-- Developed a **drag-and-drop label design application** using **ReactJS, Spring Boot, and PostgreSQL**.
-- Reduced **label generation time by 66%**, winning **Best Final Year Research Project**.
-
-### **🎭 Movie Ticketing System (Feb 2025)**
-- Built a **full-stack movie ticketing system** in **Ruby on Rails**, implementing **secure authentication and role-based access control**.
-
-### **👕 AI-Powered Fashion Recommender (Nov 2024)**
-- Developed a **personalized outfit recommendation system** using **Gemini API, AI, and Google Authentication**.
 
 ---
 
